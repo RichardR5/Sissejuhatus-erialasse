@@ -1,3 +1,3 @@
 # Sissejuhatus-erialasse
 
-Veebilehe projekti repo
+repo
